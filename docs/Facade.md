@@ -94,3 +94,6 @@ public class SmartHomeClient {
     }
 }
 ```
+
+#### ref
+https://www.geeksforgeeks.org/facade-design-pattern-introduction/
