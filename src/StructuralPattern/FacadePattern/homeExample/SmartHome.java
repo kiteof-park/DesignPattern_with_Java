@@ -1,4 +1,4 @@
-package StructuralPattern.FacadePattern;
+package StructuralPattern.FacadePattern.homeExample;
 
 public class SmartHome {
     public void hello(){

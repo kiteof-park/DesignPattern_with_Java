@@ -1,4 +1,4 @@
-package StructuralPattern.FacadePattern;
+package StructuralPattern.FacadePattern.homeExample;
 
 // 📌 Facade를 이용하는 클라이언트 코드
 public class SmartHomeClient {

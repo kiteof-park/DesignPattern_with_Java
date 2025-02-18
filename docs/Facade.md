@@ -95,5 +95,9 @@ public class SmartHomeClient {
 }
 ```
 
+<div>
+  <img src = "https://media.geeksforgeeks.org/wp-content/uploads/20240118172329/what-is-Facade-Method-Design-Pattern.jpg">
+</div>
+
 #### ref
 https://www.geeksforgeeks.org/facade-design-pattern-introduction/

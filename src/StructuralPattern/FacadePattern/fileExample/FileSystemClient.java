@@ -1,4 +1,4 @@
-package StructuralPattern.FacadePattern;
+package StructuralPattern.FacadePattern.fileExample;
 
 // 📌 클라이언트는 Facade만 생성해서 사용
 // 📌 서브 시스템의 코드는 클라이언트에서 전혀 사용되지 않음

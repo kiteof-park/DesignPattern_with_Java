@@ -1,7 +1,6 @@
-package StructuralPattern.FacadePattern;
+package StructuralPattern.FacadePattern.fileExample;
 
 import java.io.IOException;
-import java.nio.file.Paths;
 
 // 📌 파사드 패턴 -> 드라이브 스루
 public class FileSystemFacade {

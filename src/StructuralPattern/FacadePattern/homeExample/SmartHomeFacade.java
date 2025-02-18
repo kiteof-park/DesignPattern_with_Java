@@ -1,4 +1,4 @@
-package StructuralPattern.FacadePattern;
+package StructuralPattern.FacadePattern.homeExample;
 
 public class SmartHomeFacade {
     // 📌 각 클래스를 필드로 가지는 Facade 클래스(Facade 역할)
